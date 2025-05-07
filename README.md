@@ -12,14 +12,61 @@ The dataset contains global sales data with columns such as Segment, Country, Pr
 4. **Discount Impact**: High discounts in some countries reduce profit despite good sales numbers.
 5. **Seasonal Trends**: Sales tend to spike in Q4 each year, indicating seasonal demand.
 
-## Visualizations
-- Bar, Column, Pie, Line, Map, KPI, Table visuals
-- Drill-through and slicer-enabled dashboards
+
 
 ## Interactive Features
 - Page navigation buttons
 - Bookmarks to switch between Sales/Profit view
 - Custom icons and company logo added
+
+## 📈 Key Visuals Used:
+KPI Cards (Total Sales, Profit, Average Discount)
+
+Column and Bar Charts (Sales/Profit by Segment, Product)
+
+Line Chart (Sales Trend by Date)
+
+Map Visual (Country-wise Profit)
+
+Pie/Donut Chart (Segment Share)
+
+Slicers (Date, Country, Segment)
+
+Interactive Buttons with Bookmarks
+
+💡 Insights Derived:
+Highest profits were recorded in Germany and France
+
+Consumer segment had the highest sales volume
+
+Products with high discounts didn’t always lead to higher profits
+
+Year 2013 had better profitability compared to 2014
+
+🚀 Power BI Features Used:
+Data Cleaning and Transformation (Power Query)
+
+DAX Calculations (Discount %, Profit Average)
+
+Buttons, Bookmarks, and Page Navigation
+
+Interactive Slicers and Tooltips
+
+Consistent color themes and organized layout
+
+📂 Files Included:
+
+
+Financial Sample.xlsx – Original dataset
+
+
+
+✅ Skills Demonstrated:
+Data Visualization
+
+Financial Data Analysis
+
+DAX Cal
 
 ## Tools Used:
 - Power BI Desktop
